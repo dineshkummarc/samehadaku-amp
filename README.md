@@ -5,7 +5,7 @@ This is a simple streaming site for anime, using Google AMP (Accelerated Mobile 
 The content we use API from [Samehadaku](https://samehadaku.today/), and We Cache the data to make it faster using Redis.
 
 ## Screenshots
-![Home](https://i.imgur.com/1Z2Z9Zm.png)
+![Home](screenshoot.png)
 
 ## Features
 - [x] Home
